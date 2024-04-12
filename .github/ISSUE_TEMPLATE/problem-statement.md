@@ -11,5 +11,5 @@ assignees: ''
 _This could be as broad as the complete assignment– with additional problem statements for smaller problems later– or it could be as small as a single function._
 
 ## Next Steps
-- [ ] Brainstorm (add issue number here)
+- [ ] [Brainstorm](https://github.com/mrjloswald/Student-Project-Template/issues/new?assignees=&labels=brainstorm&projects=&template=brainstorm.md&title=Ideas+for+%5BProblem+Statement%5D) (add issue number here)
 - [ ] Pseudocode (add issue number here)
